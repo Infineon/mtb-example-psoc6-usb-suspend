@@ -1,3 +1,4 @@
+**This repository is deprecated.** Use the ModusToolbox&trade; example available here - https://github.com/Infineon/mtb-example-usb-device-suspend
 # PSoC&trade; 6 MCU: USB suspend and resume
 
 This example demonstrates how PSoC&trade; 6 MCU detects a USB suspend condition, enters a low-power state, and restores normal operation when USB activity resumes.
